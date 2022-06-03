@@ -17,8 +17,6 @@
 typedef unsigned char boolean;
 
 
-
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
@@ -31,8 +29,22 @@ typedef struct Cell{
     boolean isAlive;
 } Cell;
 
+/**
+ * @brief Initialise new cell
+ * 
+ * @param row 
+ * @param col 
+ * @param isAlive dead or alive
+ * @return Cell* return an address of Cell
+ */
 
 Cell* C_newCell(int row,int col,boolean isAlive);
+
+/**
+ * @brief Print one cell on the console
+ * 
+ * @param c 
+ */
 void C_show(Cell* c);
 
 
