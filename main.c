@@ -1,16 +1,17 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "CellList.h"
+#include "ansidraw.h"
 
 
 int main(){
     
-    CellList* cl;
+    CellList* cl = CL_newCellList(10,10);
     
     while(true){
-        // creating a new random 2D Table
-        cl = CL_newCellList(10,10);
-        CL_show(cl); // print a table using ANSI
+        CL_show(cl);
+        CL_implement(cl);
+        if(CL_equalLists(cl)){break;}
+        CL_copy(cl);
         printf("\n");
         sleep(1);
     }
