@@ -1,0 +1,18 @@
+var searchData=
+[
+  ['c_5fnewcell_0',['C_newCell',['../CircularVersion_2game_2Cell_8h.html#a79f56a3b0b16752cbb77537b6ea84ea8',1,'C_newCell(int row, int col, boolean isAlive):&#160;Cell.c'],['../game_2Cell_8h.html#a79f56a3b0b16752cbb77537b6ea84ea8',1,'C_newCell(int row, int col, boolean isAlive):&#160;Cell.c']]],
+  ['c_5fshow_1',['C_show',['../CircularVersion_2game_2Cell_8h.html#a52ee1158dfb866c5151badd35a0e0b2a',1,'C_show(Cell *c):&#160;Cell.c'],['../game_2Cell_8h.html#a52ee1158dfb866c5151badd35a0e0b2a',1,'C_show(Cell *c):&#160;Cell.c']]],
+  ['cell_2',['Cell',['../structCell.html',1,'']]],
+  ['cell_2eh_3',['Cell.h',['../CircularVersion_2game_2Cell_8h.html',1,'(Global Namespace)'],['../game_2Cell_8h.html',1,'(Global Namespace)']]],
+  ['celllist_4',['CellList',['../structCellList.html',1,'']]],
+  ['celllist_2eh_5',['CellList.h',['../CircularVersion_2game_2CellList_8h.html',1,'(Global Namespace)'],['../game_2CellList_8h.html',1,'(Global Namespace)']]],
+  ['cl_5fcopy_6',['CL_copy',['../CircularVersion_2game_2CellList_8h.html#a3ae5808b58b31af94b1d20b8d9f82b6b',1,'CL_copy(CellList *cl):&#160;CellList.c'],['../game_2CellList_8h.html#a3ae5808b58b31af94b1d20b8d9f82b6b',1,'CL_copy(CellList *cl):&#160;CellList.c']]],
+  ['cl_5fcountalive_7',['CL_countAlive',['../CircularVersion_2game_2CellList_8h.html#a08b2b94c086b73ef7ad6ba8bd2c25abb',1,'CL_countAlive(int row, int col, CellList *cl):&#160;CellList.c'],['../game_2CellList_8h.html#a08b2b94c086b73ef7ad6ba8bd2c25abb',1,'CL_countAlive(int row, int col, CellList *cl):&#160;CellList.c']]],
+  ['cl_5fequallists_8',['CL_equalLists',['../CircularVersion_2game_2CellList_8h.html#abf13fe8db6fedf9301d4c8fcb0a86a32',1,'CL_equalLists(CellList *cl):&#160;CellList.c'],['../game_2CellList_8h.html#abf13fe8db6fedf9301d4c8fcb0a86a32',1,'CL_equalLists(CellList *cl):&#160;CellList.c']]],
+  ['cl_5ffillrandomcelllist_9',['CL_FillRandomCellList',['../CircularVersion_2game_2CellList_8h.html#aedc8a82c487fe2711ecc2436a2682a12',1,'CL_FillRandomCellList(CellList *cl):&#160;CellList.c'],['../game_2CellList_8h.html#aedc8a82c487fe2711ecc2436a2682a12',1,'CL_FillRandomCellList(CellList *cl):&#160;CellList.c']]],
+  ['cl_5fimplement_10',['CL_implement',['../CircularVersion_2game_2CellList_8h.html#a39e8874c6963935872fd3653e8a6254e',1,'CL_implement(CellList *cl):&#160;CellList.c'],['../game_2CellList_8h.html#a39e8874c6963935872fd3653e8a6254e',1,'CL_implement(CellList *cl):&#160;CellList.c']]],
+  ['cl_5finitialize_11',['CL_initialize',['../CircularVersion_2game_2CellList_8h.html#ab8680534b1730642c0ad612ae48a3cf2',1,'CL_initialize(CellList *cl):&#160;CellList.c'],['../game_2CellList_8h.html#ab8680534b1730642c0ad612ae48a3cf2',1,'CL_initialize(CellList *cl):&#160;CellList.c']]],
+  ['cl_5fneighbours_12',['CL_neighbours',['../CircularVersion_2game_2CellList_8h.html#a876ac095bdf398294e6b6acc66df80cd',1,'CL_neighbours(int row, int col, Cell *neighbours, CellList *cl):&#160;CellList.c'],['../game_2CellList_8h.html#a876ac095bdf398294e6b6acc66df80cd',1,'CL_neighbours(int row, int col, Cell *neighbours, CellList *cl):&#160;CellList.c']]],
+  ['cl_5fnewcelllist_13',['CL_newCellList',['../CircularVersion_2game_2CellList_8h.html#a362887b12e5b461b1c6cba95420802e7',1,'CL_newCellList(int row, int col):&#160;CellList.c'],['../game_2CellList_8h.html#a362887b12e5b461b1c6cba95420802e7',1,'CL_newCellList(int row, int col):&#160;CellList.c']]],
+  ['cl_5frules_14',['CL_Rules',['../CircularVersion_2game_2CellList_8h.html#ad974fd32483b908c4668e98c6624d91f',1,'CL_Rules(int row, int col, CellList *cl):&#160;CellList.c'],['../game_2CellList_8h.html#ad974fd32483b908c4668e98c6624d91f',1,'CL_Rules(int row, int col, CellList *cl):&#160;CellList.c']]]
+];
